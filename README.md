@@ -1,5 +1,13 @@
 # Hotel Cancellation Detection System
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-Classifier-brightgreen)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Preprocessing-F7931E?logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-0194E2?logo=mlflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_App-000000?logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white)
+
 ## 1. Description
 This project is a complete Machine Learning application designed to predict whether a hotel booking will be cancelled. It implements a robust MLOps pipeline that handles data ingestion, preprocessing, model training, and evaluation using **LightGBM**. The trained model is served via a **Flask** web application, allowing users to input booking details and receive real-time cancellation predictions.
 
